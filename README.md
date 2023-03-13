@@ -1,5 +1,5 @@
 # sleep_tracker_prototype
-Project name : Rest Right
+Project name : Rest Right 🌙💤
 
 ## Member : 
 
@@ -28,7 +28,7 @@ Rest Right offers several features to address the pain points mentioned above:
 
 The Rest Right app is designed for individuals who want to track their sleep patterns and improve their sleep quality. This includes people who struggle with snoring, have difficulty remembering important tasks, and are concerned about the impact of air quality and weather on their sleep.
 
-##Conclusion :
+## Conclusion :
 
 Rest Right is a mobile app that addresses common sleep-related pain points and helps users improve their sleep quality. With its easy-to-use features and personalized recommendations, Rest Right is an essential tool for anyone looking to achieve better sleep.
 
